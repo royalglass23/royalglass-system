@@ -1,0 +1,461 @@
+[
+  {
+    "uuid": "8f836afb-f146-4dc4-9cd4-1df684fad00b",
+    "name": "EOrder Parts ",
+    "default_timeframe": 14,
+    "active": 0,
+    "edit_date": "2022-05-04 12:04:13",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "6958027f-e1b4-44ae-be87-1df687e96e0b",
+    "name": "DPending Quotes",
+    "default_timeframe": 28,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:32",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "56b861f6-5911-4091-bff4-1df688fa25bb",
+    "name": "D Design confirmation ",
+    "default_timeframe": 14,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:30",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "814aacb3-f27c-4e3f-81ea-1dfde7904a1b",
+    "name": "EShop drawing",
+    "default_timeframe": 7,
+    "active": 0,
+    "edit_date": "2022-05-04 12:04:18",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "37df1d4f-9344-4aa2-8420-1dfde62f16fb",
+    "name": "ECustomized G drawing",
+    "default_timeframe": 7,
+    "active": 0,
+    "edit_date": "2022-05-04 12:04:05",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "5bd2e52b-b016-410e-bd3c-1dfde4cea73b",
+    "name": "Especial  glass order ",
+    "default_timeframe": 14,
+    "active": 0,
+    "edit_date": "2022-05-04 12:04:22",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "7a7f6492-f7fc-4bd9-9cc4-1dfde1fee40b",
+    "name": "E Supplier( hardware, glass, color)",
+    "default_timeframe": 14,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:36",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "7c3f0d35-d041-4768-a8c4-1dfde361b16b",
+    "name": "Site assessment",
+    "default_timeframe": 3,
+    "active": 0,
+    "edit_date": "2022-04-04 11:48:08",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "c1a3e047-1ac5-4acc-a096-1dfde661243b",
+    "name": "CQuote Prepare",
+    "default_timeframe": 3,
+    "active": 0,
+    "edit_date": "2022-05-04 12:01:14",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "311b2487-55b3-4a02-89a1-1dfde54faedb",
+    "name": "FInstallation ",
+    "default_timeframe": 28,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:38",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "bc81913e-2103-4c24-a4dc-1dfde8b2f44b",
+    "name": "GJob Sign Off",
+    "default_timeframe": 6,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:39",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "1fc91fc8-e4fd-40bd-a19e-1e5209ad2cbb",
+    "name": "HAfter sale",
+    "default_timeframe": 14,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:41",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "6b72f8d2-32f8-43d5-9b17-1e5208488a5b",
+    "name": "A Lei",
+    "default_timeframe": 28,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:19",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "11f89859-7994-42dc-87ca-1e520f9ffceb",
+    "name": "BSite meet",
+    "default_timeframe": 28,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:29",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "89a5a705-2fe1-4f9c-bbbd-1e55515e293b",
+    "name": "ZparkQ-Roxy",
+    "default_timeframe": 180,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:44",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "6dce168f-d856-4983-8efc-1e5558f3f75b",
+    "name": "ZparkW-Roxy",
+    "default_timeframe": 90,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:47",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "369067b0-4651-4216-9a27-1e56ea19752b",
+    "name": "ARoy",
+    "default_timeframe": 14,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:27",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "59bc80ed-3b4c-4503-9251-1e56e987259b",
+    "name": "ARoxy",
+    "default_timeframe": 14,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:25",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "77b4ac9a-bcfe-4578-b4f2-1e765566301b",
+    "name": "ALei Park",
+    "default_timeframe": 180,
+    "active": 0,
+    "edit_date": "2022-08-05 12:22:21",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "9dfd8036-ed14-422f-ac1a-1ece4d3b7e2b",
+    "name": "Current two  weeks ",
+    "default_timeframe": 180,
+    "active": 0,
+    "edit_date": "2022-10-26 23:29:00",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "b44d052a-8cd2-4b70-bbf2-1ece41aa815b",
+    "name": "Quote to be installed ",
+    "default_timeframe": 90,
+    "active": 0,
+    "edit_date": "2022-10-26 23:29:09",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "ccdfc329-3942-4b7e-b7d1-1ed885c7cf5b",
+    "name": "Lei's jobs ",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2022-10-26 23:29:06",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "ed952ac5-252a-4428-ae77-1ed88a67149b",
+    "name": "TO DO FOR TEAM ",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2022-10-26 23:30:09",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "c0d2ac8c-65a8-4b7a-843e-1ed887142c2b",
+    "name": "Design Stage ",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2022-10-26 23:29:03",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "53a00ab4-862c-4ef0-ae51-1f2061b94e6b",
+    "name": "Miscellaneous",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2025-04-23 15:21:00",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "9a3fb80b-f3a6-438c-8bb1-2085e4f6c45b",
+    "name": "3. Pending Feedback",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-05-31 11:03:51",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "0ad8e059-53cb-438e-8801-2085ee9e52ab",
+    "name": "2. Pending Feedback",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-05-31 11:03:49",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "3f19e5d6-0267-40cd-89f7-208d8e66e4fb",
+    "name": "4. Preparation",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-05-31 11:03:55",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "ad41b410-b7e0-40c1-9e2d-208d85552a3b",
+    "name": "5. Installation",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2023-12-13 22:06:29",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "776c4868-3d05-4d8e-815c-208d84ac7f3b",
+    "name": "5. Sign Off",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-02-26 15:12:26",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "af54eaf9-4479-4a4e-819f-208d8aec788b",
+    "name": "6. Feedback",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2023-11-07 13:39:08",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "028e8812-c8e6-44a9-bf68-20999e6ee74b",
+    "name": "1. To do",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2025-04-23 15:20:56",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "5582e33a-15e7-487d-85f0-20bd761fe5bb",
+    "name": "4. Follow Up",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-01-18 12:15:26",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "11300e3e-9f23-452e-bad9-20bd771cea8b",
+    "name": "6. Scheduling",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-01-18 12:15:48",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "ff94acbe-8cd6-4f7c-b8de-20bd7baaadfb",
+    "name": "7. Installation",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-01-18 12:16:03",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "7ecb290f-d7e1-4ccf-955f-216632589fbb",
+    "name": "2. Awaiting Feedback",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2025-04-23 15:20:58",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "d7ee10b3-517c-458c-8613-216633d27bbb",
+    "name": "3. Follow Up",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2024-05-31 12:03:57",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "efdb6ea6-8ac8-4a38-a28e-21708ca7094b",
+    "name": "VIP",
+    "default_timeframe": 365,
+    "active": 0,
+    "edit_date": "2025-04-23 15:21:01",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "749d5167-495e-45e8-ac07-22aece11d3cb",
+    "name": "Schedule of Quantities ",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2025-04-23 15:21:22",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "f840bf2b-aba3-4773-9e74-22aec3aabafb",
+    "name": "Provide Prices",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2025-04-24 11:12:39",
+    "subscribed_staff": "",
+    "requires_assignment": "1"
+  },
+  {
+    "uuid": "53b689bd-f7ea-4e10-bd7c-22aec43e061b",
+    "name": "Quote Sent",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2025-04-23 16:14:00",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "a635be69-7569-4536-905d-22aeccf7b17b",
+    "name": "Concept Design",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2025-04-23 15:23:01",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "5798e2c7-8e77-46c3-ac49-22aecccb62db",
+    "name": "Producer Statements ",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2025-04-23 15:23:28",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "273269b9-617f-4e85-9444-22aec367b4cb",
+    "name": "Installation Guide",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2025-04-23 15:23:56",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "003c4259-54f8-4d7f-aaee-22aec569cbbb",
+    "name": "Waiting for Installation",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2025-04-23 16:10:02",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "e89fb845-09f9-4268-9f05-23f2e4ef34eb",
+    "name": "RG SOP v1 \u2013 Lead",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2026-03-13 16:05:49",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "3913b924-e323-47fe-b12b-23f2e3e0d57b",
+    "name": "RG SOP v1 \u2013 Qualify / Info Pack",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2026-03-13 16:06:08",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "e5946b97-2a14-410f-88bd-23f2edaf3cab",
+    "name": "RG SOP v1 \u2013 Site Visit / Measure",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2026-03-13 16:06:17",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "1a20cf3c-5adb-45df-9e98-23f2e14e666b",
+    "name": "RG SOP v1 \u2013 Quote / Follow-up",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2026-03-13 16:06:25",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "97a17100-a1ff-4b7c-9333-23f2e8ab87cb",
+    "name": "RG SOP v1 \u2013 Install",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2026-03-13 16:06:38",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  },
+  {
+    "uuid": "8a6a8720-a840-4668-aaa0-23f2ebf1c1ab",
+    "name": "RG SOP v1 \u2013 QA / Close",
+    "default_timeframe": 0,
+    "active": 1,
+    "edit_date": "2026-03-13 16:06:48",
+    "subscribed_staff": "",
+    "requires_assignment": "0"
+  }
+]

@@ -1,0 +1,8 @@
+.env
+__pychache__/
+*.pyc
+.next/
+node_modules/
+*.log
+n8n/data
+n8n/.env

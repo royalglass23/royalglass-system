@@ -1,0 +1,443 @@
+[
+  {
+    "uuid": "981008e9-2147-4bda-807d-1df68c3491bb",
+    "edit_date": "2022-05-15 20:59:52",
+    "name": "Glass splashback ",
+    "colour": "ffd098",
+    "active": 0
+  },
+  {
+    "uuid": "bb4301fa-5635-412c-b3bb-1df681a7f20b",
+    "edit_date": "2022-05-15 20:59:44",
+    "name": "Glass Balustrade",
+    "colour": "caffb5",
+    "active": 0
+  },
+  {
+    "uuid": "bd1d3929-1d0b-455d-93e4-1df686aeac0b",
+    "edit_date": "2022-05-15 20:59:48",
+    "name": "Glass Pool Fence",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "a674f76b-127f-4dc9-9bc5-1df68654484b",
+    "edit_date": "2022-05-15 20:59:50",
+    "name": "Glass shower ",
+    "colour": "e7b5ff",
+    "active": 0
+  },
+  {
+    "uuid": "32042784-b668-4e3f-a20b-1dfde55f2e2b",
+    "edit_date": "2022-05-15 20:59:46",
+    "name": "Glass Partition ",
+    "colour": "feffcc",
+    "active": 0
+  },
+  {
+    "uuid": "61a12a12-7efd-4103-88d3-1dfde89f79fb",
+    "edit_date": "2022-05-15 20:59:58",
+    "name": "Other Glazing Services ",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "a2d35d28-797f-4388-bac7-1dfde6a9ebcb",
+    "edit_date": "2022-05-15 20:59:55",
+    "name": "Mirror ",
+    "colour": "e7b5ff",
+    "active": 0
+  },
+  {
+    "uuid": "7a329de9-9375-4e10-bde4-1e520c4a637b",
+    "edit_date": "2022-05-15 20:59:41",
+    "name": "Whole House Glazing ",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "38b9f6f8-86e4-4566-a9d3-1e7cbeebbfab",
+    "edit_date": "2022-08-01 18:43:20",
+    "name": "Prior to Quote",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "e7f2fedd-3c42-4800-b0e1-1e7cb8091a7b",
+    "edit_date": "2022-08-01 18:43:17",
+    "name": "Quote to be followed",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "e5a6d015-662e-41e6-be61-1e7cb21eafcb",
+    "edit_date": "2022-08-01 18:43:25",
+    "name": "Parking Quote",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "9d42e7ca-d728-4e18-8276-1e7cbec13c8b",
+    "edit_date": "2022-08-01 18:43:12",
+    "name": "Wait for material ? glass, hardware, powder coating, color?",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "fa5dbef7-0397-427b-bed1-1e7cb096431b",
+    "edit_date": "2022-08-01 18:43:28",
+    "name": "Material ready- before installation",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "f2fd1303-f1b6-47b0-8e07-1e7cb2897f7b",
+    "edit_date": "2022-08-01 18:43:23",
+    "name": "Parking work order",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "4b144035-eca2-46da-a1b0-1e7cb88b504b",
+    "edit_date": "2022-08-01 18:43:33",
+    "name": "Installation Process",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "f77a3f4c-8b78-41be-a7ed-1e7cbfe4183b",
+    "edit_date": "2022-08-01 18:43:35",
+    "name": "Final Invoice",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "093104a5-22cb-4bff-b873-1e7cb48b6abb",
+    "edit_date": "2022-08-01 18:43:09",
+    "name": "Wait for deposit",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "428ef7d6-5c49-4e4d-b808-1e7cb9e4ef1b",
+    "edit_date": "2022-08-01 18:43:14",
+    "name": "Review",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "7e1f2884-083a-440f-99a4-1e7cb2fd9cdb",
+    "edit_date": "2022-08-01 18:43:31",
+    "name": "Job Close",
+    "colour": "",
+    "active": 0
+  },
+  {
+    "uuid": "c714a04b-4701-4fe4-adb3-1ecad83ed59b",
+    "edit_date": "2023-10-30 15:29:47",
+    "name": "@@@",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "86cdc891-7d0f-4f84-83c1-1ecad9a4f50b",
+    "edit_date": "2023-10-30 15:29:45",
+    "name": "@@",
+    "colour": "caffb5",
+    "active": 0
+  },
+  {
+    "uuid": "41531ad2-9e31-42c0-a283-1ecadd175b3b",
+    "edit_date": "2023-10-30 15:29:48",
+    "name": "@@@@",
+    "colour": "ffd098",
+    "active": 0
+  },
+  {
+    "uuid": "694f667c-b5c6-4f3f-996d-1ecad18038bb",
+    "edit_date": "2023-10-30 15:29:43",
+    "name": "@",
+    "colour": "e7b5ff",
+    "active": 0
+  },
+  {
+    "uuid": "2712990d-086b-4b34-9307-1ecad32e559b",
+    "edit_date": "2023-10-30 15:29:41",
+    "name": "$",
+    "colour": "feffcc",
+    "active": 0
+  },
+  {
+    "uuid": "84558f33-466a-400d-a99b-1ecadddf56db",
+    "edit_date": "2022-09-05 15:13:00",
+    "name": "Supplier",
+    "colour": "e7b5ff",
+    "active": 0
+  },
+  {
+    "uuid": "6a12cea3-904f-400a-824d-1f184d9eae9b",
+    "edit_date": "2023-10-30 15:30:00",
+    "name": "Roxy Roxy ",
+    "colour": "ffb5b5",
+    "active": 0
+  },
+  {
+    "uuid": "ab0e2645-4a47-411b-8a36-2085edae8e1b",
+    "edit_date": "2023-10-30 15:29:51",
+    "name": "Balustrades",
+    "colour": "e7b5ff",
+    "active": 0
+  },
+  {
+    "uuid": "19298b6d-bd41-418a-82fa-208d8ffd9acb",
+    "edit_date": "2023-10-30 15:29:58",
+    "name": "Partitions",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "29d006c6-8b90-47a6-a4f1-208d8f2a75bb",
+    "edit_date": "2023-10-30 15:29:54",
+    "name": "Mirror",
+    "colour": "caffb5",
+    "active": 0
+  },
+  {
+    "uuid": "f11c160d-d2f3-4efe-b30f-20910da1fb1b",
+    "edit_date": "2023-12-08 09:40:18",
+    "name": "Main Contractor",
+    "colour": "caffb5",
+    "active": 0
+  },
+  {
+    "uuid": "3a55410a-bcb7-428a-a013-209109d4977b",
+    "edit_date": "2023-12-08 09:40:15",
+    "name": "Homeowner",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "d0b4a1a8-dcf7-49bf-8a60-209109a7c9eb",
+    "edit_date": "2023-12-08 09:40:13",
+    "name": "Architect or Designer",
+    "colour": "ffd098",
+    "active": 0
+  },
+  {
+    "uuid": "3c99e2e4-0d17-4e07-ae0f-2094cb7a0d1b",
+    "edit_date": "2023-12-08 09:40:11",
+    "name": " Developer ",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "4a962baf-8a75-4784-ad0f-2094c129954b",
+    "edit_date": "2023-12-08 09:40:17",
+    "name": "Landscaper ",
+    "colour": "e7b5ff",
+    "active": 0
+  },
+  {
+    "uuid": "d61f17d4-f0d0-44db-9c34-2094c90d473b",
+    "edit_date": "2023-12-08 09:40:20",
+    "name": "Pool Builder ",
+    "colour": "ffb5b5",
+    "active": 0
+  },
+  {
+    "uuid": "2f57654c-b3cd-4f66-8cb5-2094ce38773b",
+    "edit_date": "2023-12-08 09:40:14",
+    "name": "Engineer ",
+    "colour": "feffcc",
+    "active": 0
+  },
+  {
+    "uuid": "21293109-62c3-42be-b8dc-2094ca556dbb",
+    "edit_date": "2023-12-08 09:40:22",
+    "name": "Supplier ",
+    "colour": "feffcc",
+    "active": 0
+  },
+  {
+    "uuid": "42e51abb-1a83-479f-9f38-2098ab9f5a5b",
+    "edit_date": "2023-12-08 09:39:51",
+    "name": "***UNCATEGORISED****",
+    "colour": "feffcc",
+    "active": 0
+  },
+  {
+    "uuid": "a7dc46d5-60d8-4c19-886d-20b79f1e4b6b",
+    "edit_date": "2025-03-03 14:56:25",
+    "name": "B-Stair Balustrade- New",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "debca551-81a8-4eb3-b367-20b79943a11b",
+    "edit_date": "2025-03-03 14:57:10",
+    "name": "B-Partition",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "1ba19a2b-81af-4ff1-b607-20b7962ab13b",
+    "edit_date": "2025-03-03 15:50:42",
+    "name": "C-Splashback",
+    "colour": "feffcc",
+    "active": 1
+  },
+  {
+    "uuid": "88e06d03-8c1c-4816-a5b7-20b79316cc1b",
+    "edit_date": "2025-03-03 14:56:56",
+    "name": "C-Mirror",
+    "colour": "feffcc",
+    "active": 1
+  },
+  {
+    "uuid": "7b1a081b-20c1-4cab-b4d0-20b7958ba8eb",
+    "edit_date": "2025-03-03 15:50:36",
+    "name": "C-Shower",
+    "colour": "feffcc",
+    "active": 1
+  },
+  {
+    "uuid": "6e09ba87-9c27-4d54-a572-20bd74e6f9fb",
+    "edit_date": "2023-12-14 13:13:28",
+    "name": "Pool Fence",
+    "colour": "feffcc",
+    "active": 0
+  },
+  {
+    "uuid": "a2c3ee83-58e1-4c19-b208-20bd77c5ba4b",
+    "edit_date": "2023-12-14 13:13:39",
+    "name": "Multiple",
+    "colour": "ffb5b5",
+    "active": 0
+  },
+  {
+    "uuid": "ca0e03fe-8f87-408c-9f36-20e0b77eed3b",
+    "edit_date": "2025-02-13 14:38:45",
+    "name": "Multiple w/ Balustrade",
+    "colour": "feffcc",
+    "active": 0
+  },
+  {
+    "uuid": "abf83363-89f7-4c96-bdaa-20f69a85d9cb",
+    "edit_date": "2024-02-09 09:13:40",
+    "name": "Other",
+    "colour": "b5d1ff",
+    "active": 1
+  },
+  {
+    "uuid": "3e5fad01-ffe7-4588-b979-20f69ee4d2db",
+    "edit_date": "2025-03-03 14:50:34",
+    "name": "Multiple",
+    "colour": "ffd098",
+    "active": 0
+  },
+  {
+    "uuid": "fdbd2ec0-7f6d-4775-b41f-21cce3940b5b",
+    "edit_date": "2025-03-03 14:57:18",
+    "name": "C-Gate Repair",
+    "colour": "feffcc",
+    "active": 1
+  },
+  {
+    "uuid": "5d2f85a0-82ee-4adf-9f10-22695c55fddb",
+    "edit_date": "2025-03-03 14:56:04",
+    "name": "B-Pool fence - New",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "64f41ded-87c3-4c2b-bdf6-22695737cbdb",
+    "edit_date": "2025-03-03 14:55:28",
+    "name": "A-Subdivision ",
+    "colour": "ffb5b5",
+    "active": 1
+  },
+  {
+    "uuid": "efd8eaf1-5fce-40eb-accb-226955bae6db",
+    "edit_date": "2025-03-03 14:55:46",
+    "name": "B-Deck/ Balcony Balustrade- New",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "2286c1c7-79ac-4b99-9b66-227b76a15eeb",
+    "edit_date": "2025-03-03 14:57:04",
+    "name": "B-Stair Balustrade- Reno",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "4fc2d411-c40b-4dc6-949e-227b7714ce7b",
+    "edit_date": "2025-03-03 14:55:55",
+    "name": "B-Deck/ Balcony Balustrade- Reno",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "e2451613-858d-47b0-a8ea-227b75c742fb",
+    "edit_date": "2025-03-03 14:56:16",
+    "name": "B-Pool fence - Reno",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "58468871-fa96-4060-88e1-22c87b5bc20b",
+    "edit_date": "2025-07-30 22:44:06",
+    "name": "D-Roxy",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "8b932ebb-c0bf-48fc-af63-22e1db9b14bb",
+    "edit_date": "2025-06-14 10:46:50",
+    "name": "D- Low quality jobs ",
+    "colour": "",
+    "active": 1
+  },
+  {
+    "uuid": "bbd439b7-510f-43d5-8aeb-22e1db48b7db",
+    "edit_date": "2025-06-14 10:47:03",
+    "name": "E- Non job",
+    "colour": "",
+    "active": 1
+  },
+  {
+    "uuid": "04cb6b37-737c-455a-a4f6-23104e1ac80b",
+    "edit_date": "2025-07-30 22:44:13",
+    "name": "Pool Equip",
+    "colour": "b5d1ff",
+    "active": 0
+  },
+  {
+    "uuid": "089c3ebf-e989-41da-9c25-23ef485a84db",
+    "edit_date": "2026-03-10 16:08:24",
+    "name": "V1 \u2013 Stage 1 Enquiry ? Site Visit",
+    "colour": "b5d1ff",
+    "active": 1
+  },
+  {
+    "uuid": "f01c3c0c-4210-432c-96ee-23ef433f993b",
+    "edit_date": "2026-03-10 16:08:37",
+    "name": "V1 \u2013 Stage 2 Site Visit ? Quote",
+    "colour": "caffb5",
+    "active": 1
+  },
+  {
+    "uuid": "14b5fffc-82bb-4e0c-b049-23ef490e52db",
+    "edit_date": "2026-03-10 16:08:50",
+    "name": "V1 \u2013 Stage 3 Quote Accepted ? Work Order",
+    "colour": "ffd098",
+    "active": 1
+  },
+  {
+    "uuid": "6fc11b5b-1616-41a9-8763-23ef4351b2eb",
+    "edit_date": "2026-03-10 16:09:02",
+    "name": "V1 \u2013 Stage 4 Post-Install",
+    "colour": "e7b5ff",
+    "active": 1
+  }
+]
