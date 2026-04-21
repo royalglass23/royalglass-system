@@ -6,3 +6,4 @@ node_modules/
 *.log
 n8n/data
 n8n/.env
+CLAUDE.local.md

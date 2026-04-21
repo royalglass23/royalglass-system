@@ -1,0 +1,57 @@
+
+
+services:
+
+  # ── PostgreSQL — the database ─────────────────────────────────────────────
+  db:
+    image: postgres:16
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── FastAPI backend — the API ─────────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DB_HOST: db          # Tells FastAPI to connect to the 'db' service above
+      APP_ENV: development
+    ports:
+      - "8000:8000"        # API accessible at http://localhost:8000
+    volumes:
+      - ./backend/app:/app/app   # Live reload: code changes reflect immediately
+    depends_on:
+      db:
+        condition: service_healthy   # Wait for DB to be ready before starting
+
+  # ── n8n — automation engine ───────────────────────────────────────────────
+  n8n:
+    image: n8nio/n8n
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "5678:5678"
+    volumes:
+      - n8ndata:/home/node/.n8n
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:
+  n8ndata:
