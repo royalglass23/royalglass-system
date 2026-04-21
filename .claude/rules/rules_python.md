@@ -3,7 +3,19 @@
 ## Python Version
 
 Inside Docker containers: Python 3.11 (set in Dockerfile).
-Local machine: Python 3.12. Do not use passlib directly on the local machine — use bcrypt directly instead (passlib has compatibility issues with Python 3.12+).
+Local machine: Python 3.12.
+
+**Do not use passlib.** It has compatibility issues with newer bcrypt versions and Python 3.11+. Use bcrypt directly everywhere — both locally and inside Docker.
+
+```python
+import bcrypt
+
+# Hash
+hashed = bcrypt.hashpw(plain.encode("utf-8"), bcrypt.gensalt()).decode("utf-8")
+
+# Verify
+bcrypt.checkpw(plain.encode("utf-8"), hashed.encode("utf-8"))
+```
 
 ## FastAPI Patterns
 

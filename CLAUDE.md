@@ -29,15 +29,19 @@ The backend uses `--reload`, so code changes in `backend/app/` apply immediately
 **n8n UI**: http://localhost:5678  
 **Health check**: http://localhost:8000/health
 
-**Create a staff account** (requires Docker running):
+**Create a staff account** (run from inside the backend container):
 ```bash
-python backend/create_user.py
+docker compose exec backend python app/seed_user.py
 ```
 
-**Apply a new migration** (connect to the running DB container):
-```bash
-docker compose exec db psql -U rgadmin -d royalglass -f /dev/stdin < db/migrations/002_your_migration.sql
+> `create_user.py` cannot be run directly from Windows — Docker port-forwarding prevents password auth from the host. Always run scripts that connect to the DB from inside the backend container.
+
+**Apply a migration** (PowerShell — stdin redirection `<` is not supported):
+```powershell
+Get-Content db/migrations/001_initial_schema.sql | docker compose exec -T db psql -U rgadmin -d royalglass
 ```
+
+> After `docker compose down -v`, the schema is wiped. Always re-apply all migrations before using the API.
 
 ## Architecture
 

@@ -24,7 +24,11 @@ docker compose restart backend
 
 # Full reset (wipes database volume — use only when needed)
 docker compose down -v && docker compose up -d
+# After a volume reset, always re-apply migrations:
+# Get-Content db/migrations/001_initial_schema.sql | docker compose exec -T db psql -U rgadmin -d royalglass
 ```
+
+> **PowerShell note:** The `<` stdin redirection operator is not supported. Use `Get-Content file | docker compose exec -T db psql ...` for all migration commands.
 
 Container names:
 - `royalglass-db-1` — PostgreSQL

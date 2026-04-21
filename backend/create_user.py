@@ -40,7 +40,7 @@ def main():
             dbname=os.getenv("POSTGRES_DB"),
             user=os.getenv("POSTGRES_USER"),
             password=os.getenv("POSTGRES_PASSWORD"),
-            host="localhost",
+            host=os.getenv("DB_HOST", "127.0.0.1"),
             port=5432,
         )
     except Exception as e:
